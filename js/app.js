@@ -67,5 +67,5 @@ angular.module("assom_forum", ["ionic","ionMdInput","ionic-material","ionic.rati
 		}
 	})
 
-	$urlRouterProvider.otherwise("/assom_forum/accueil");
+	$urlRouterProvider.otherwise("/assom_forum/about");
 });
